@@ -1,6 +1,9 @@
-E-Vote is a secure, web-based voting platform built to modernize barangay elections in the Philippines. It empowers citizens to cast their votes online with confidence and transparency. Designed for both Barangay and SK elections, the system allows eligible voters to vote securely from any device, track real-time results, and prevent multiple submissions through robust authentication and encryption.
+E-Vote is a secure, web-based voting platform built to modernize barangay elections in the Philippines. 
+It empowers citizens to cast their votes online with confidence and transparency. 
+Designed for both Barangay and SK elections, the system allows eligible voters to vote securely from any device, track real-time results, and prevent multiple submissions through robust authentication and encryption.
 
 Features
+
 -User Registration & Login using verified email or voter ID
 
 -Vote Casting for Barangay Captain, SK Chairman, and 7 Councilors
