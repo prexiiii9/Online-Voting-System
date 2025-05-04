@@ -1,16 +1,14 @@
 {
-  "name": "e-vote-system",
+  "name": "online-voting-system",
   "version": "1.0.0",
-  "description": "E-Vote: A Secure Online Voting System for Barangay Elections",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview"
-    "start": "node index.js"
-  "dev": "nodemon app.js"
-  }
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
 }
